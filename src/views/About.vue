@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <div class="container">
+      <p class="text-center mt-4">Covid Status v1.0</p>
+    </div>
   </div>
 </template>
